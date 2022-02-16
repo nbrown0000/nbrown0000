@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbrown0000
-- 👀 I’m interested in building Web Applications, Reponsive Websites, REST API's, and a whole bunch more.
-- 🌱 Right now I'm learning NodeJS, ExpressJS, MongoDB
+- 👀 I’m interested in building Web Applications, Responsive Websites, REST API's, and a whole bunch more.
+- 🌱 Right now I'm learning NodeJS, ExpressJS, MongoDB, and Heroku
 - 💞️ My hot topics are React, Redux, NodeJS, ExpressJS projects
 - 📫 Want to get in touch, hit me up at brown.nathanjames@gmail.com
 
