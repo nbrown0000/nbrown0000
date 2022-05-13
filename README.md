@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @nbrown0000
-- 👀 I’m interested in building Web Applications, Responsive Websites, REST API's, and a whole bunch more.
-- 🌱 Right now I'm learning NodeJS, ExpressJS, MongoDB, and Heroku
-- 💞️ My hot topics are React, Redux, NodeJS, ExpressJS projects
+- :cloud: My cloud skills include SRE, Azure, IaC, Terraform
+- :green_book: Languages I know include: C#, Powershell, Javascript, HTML, CSS
+- 👀 I’m interested in building Web Applications, REST API's, Creating and Monitoring resources in Azure, shell scripting and a whole bunch more.
+- 🌱 Right now I'm learning Design Patterns, Clouding Computing
+- 💞️ My hot topics are IaC, ASP.NET Web Apps, Azure Monitoring
 - 📫 Want to get in touch, hit me up at brown.nathanjames@gmail.com
 
 <!---
